@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Dongle:wght@700&family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Dancing+Script&family=Dongle:wght@700&family=Roboto:wght@900&display=swap');
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/011/404/298/small/paper-note-with-abstract-doodle-and-gradient-frame-background-free-vector.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#list {
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Bruno Ace', cursive;;
+  font-size: 50px;
+}
+
+#notes {
+  text-align: center;
+  margin-left: 35%;
+  margin-top: 10px;
+  width: 30%;
+  border: 3px solid blue;
+  padding: 10px;
+}
+
+#task-list {
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  
+}
+
+
+
